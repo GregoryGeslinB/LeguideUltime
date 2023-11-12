@@ -1,4 +1,4 @@
-# Projet d'entreneinement de model
+# Projet d'entreinement de model
 
 
 - Checklist
